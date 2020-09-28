@@ -1,5 +1,4 @@
 # Hi! :wave:  
-### I am looking for a job. :moyai:  
 
 :mortar_board: **About me:** Master of software engineering. I like to study and do it every day.  
 :muscle:**Main skills:** Java     
